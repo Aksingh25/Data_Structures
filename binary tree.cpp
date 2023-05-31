@@ -1,5 +1,3 @@
-// Binary Tree in C++
-
 #include <stdlib.h>
 #include <iostream>
 
